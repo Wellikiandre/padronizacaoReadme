@@ -32,6 +32,7 @@
 	🚧  Padronização De Readme De Projeto 🚀 Under construction...  🚧
 </h4> 
 
+
 <hr> -->
 
 <p align="center">
